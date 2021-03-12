@@ -1,5 +1,5 @@
 ---
-refresh_interval: 2 # seconds
+refresh_interval: 20 # seconds
 urls:
   - https://www.newegg.com/asrock-radeon-rx-6800-rx-6800-16g/p/N82E16814930046
   - https://www.newegg.com/asus-radeon-rx-6800-rx6800-16g/p/N82E16814126473

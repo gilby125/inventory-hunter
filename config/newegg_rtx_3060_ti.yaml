@@ -1,5 +1,5 @@
 ---
-refresh_interval: 2 # seconds
+refresh_interval: 20 # seconds
 max_price: 650 # dollars/euros/etc
 urls:
   - https://www.newegg.com/asus-geforce-rtx-3060-ti-tuf-rtx3060ti-o8g-gaming/p/N82E16814126471?Item=N82E16814126471&Tpk=14-126-471

@@ -1,5 +1,5 @@
 ---
-refresh_interval: 2 # seconds
+refresh_interval: 20 # seconds
 urls:
   - https://www.newegg.com/asus-geforce-rtx-3080-rog-strix-rtx3080-o10g-gaming/p/N82E16814126457
   - https://www.newegg.com/asus-geforce-rtx-3080-tuf-rtx3080-10g-gaming/p/N82E16814126453

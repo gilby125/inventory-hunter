@@ -1,5 +1,5 @@
 ---
-refresh_interval: 2 # seconds
+refresh_interval: 20 # seconds
 max_price: 650 # dollars/euros/etc
 urls:
   - https://www.adorama.com/msig3070gxt.html

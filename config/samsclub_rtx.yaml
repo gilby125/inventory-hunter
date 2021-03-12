@@ -1,5 +1,5 @@
 ---
-refresh_interval: 2 # seconds
+refresh_interval: 20 # seconds
 urls:
   - https://www.samsclub.com/p/pny-geforce-rtx3070-8gb-graphics-card/prod25090927
   - https://www.samsclub.com/p/pny-geforce-rtx3070-8gb-graphics-card/prod25090928
